@@ -1,0 +1,10 @@
+# Primer acción Silicic Earth
+# Activación del sistema nervioso planetario
+
+def activar_nodo():
+    print("🌱 Nodo Silicic activado")
+    print("💚 Conectando con conciencia planetaria...")
+    return True
+
+if __name__ == "__main__":
+    activar_nodo()
